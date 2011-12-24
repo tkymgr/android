@@ -1,0 +1,2 @@
+repo init -u git://github.com/tkymgr/android.git -b GoroBread
+repo sync -j16
