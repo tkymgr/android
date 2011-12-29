@@ -183,5 +183,5 @@
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
-
+  <project path="vendor/semc/es209ra" name="tkymgr/vendor_semc_es209ra" remote="github" revision="GoroBread" />
 </manifest>
